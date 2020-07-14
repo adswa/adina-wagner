@@ -1,0 +1,63 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Doctoral Researcher
+# your company information
+company:
+  name: Psychoinformatics Lab, INM-7, Juelich Research Centre
+  url: "https://www.psychoinformatics.de/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate scientist, open science advocate, and research data management enthusiast. I develop tools and resources for reproducible, open, and FAIR neuroscience, teach data management practices and tools, and pursue a PhD in Neuroinformatics.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "adina.wagner@t-online.de"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/adswa"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/12792496/adina-wagner"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/adina-wagner-611379123/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/AdinaKrik"
+
+- name: Google Scholar
+  icon: "fab fa-google"
+  url: "https://scholar.google.com/citations?user=OAW7ZakAAAAJ&hl=en"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported color: blue, yellow, pink, green
+softSkills:
+- name: Open Science
+  percentage: 100
+  color: blue
+- name: Open Source
+  percentage: 100
+  color: blue
+- name: Open Data
+  percentage: 100
+  color: blue
+- name: Open Mind
+  percentage: 100
+  color: blue

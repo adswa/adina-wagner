@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Version control
+  icon: "images/skills/git.jpg"
+  summary: "Proficient in local and collaborative version control workflows with [Git](https://git-scm.com/) and [git-annex](https://git-annex.branchable.com/), experience with repository-hosting services such as GitHub, GitLab, and Gin."
+
+- name: Data management
+  icon: "images/skills/datalad.png"
+  summary: "Documenting, developing, using, and teaching [FAIR](https://www.go-fair.org/fair-principles/) and scalable data management skills with [DataLad](https://www.datalad.org/)."
+
+- name: Reproducible science
+  icon: "images/skills/reproducible.svg"
+  summary: "Share fully reproducible digital research objects (data, code, results, software, provenance)."
+
+- name: Software containers
+  icon: "images/skills/docker.svg"
+  summary: "Building and using containerized software, Docker and Singularity."
+
+- name: Python
+  icon: "images/projects/python.png"
+  summary: "Experience in generic scripting and programming with Python for research software engineering, data science, neuroimaging (NumPy, pandas, sklearn, matplotlib, pyplot, seaborn, pymvpa, nibabel, nipype, fmriprep, fitlins, pybids,...), continuous integration, unit testing, Python packaging, some debugging experience."
+
+- name: Linux
+  icon: "images/skills/linux.png"
+  summary: "Using as the main operating system (Debian). Capable of writing bash/shell scripts and using major command line tools."
+
+- name: Miscellaneous tools
+  icon: "images/skills/computer.jpg"
+  summary: "Text editors: LaTeX, vim, pycharm; Graphics: Inkscape, Gimp, Adobe Photoshop; technical writing: Sphinx, readthedocs, building static websites with hugo, Other (statistical) programming languages: HTML, R, STATA, SPSS."
+
+- name: Technical writing
+  icon: "images/skills/writing.png"
+  summary: "I have extensive experience in creating accessible user documentation for complex software tools."

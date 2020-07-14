@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: The DataLad Handbook
+  logo: images/projects/handbook.png
+  role: Project Lead
+  timeline: "July 2019 - Present"
+  repo: https://github.com/datalad-handbook/book # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Accessible and extensive workflow-based user documentation for data management with [DataLad](https://www.datalad.org). [doi.org/10.5281/zenodo.3905791](http://doi.org/10.5281/zenodo.3905791)
+  tags: ["professional", "DataLad", "version control"]
+
+- name: Multimatch-gaze
+  logo: images/projects/python.png
+  role: Developer
+  timeline: "2018/19"
+  repo: https://github.com/adswa/multimatch_gaze
+  #url: ""
+  summary: An Open Source algorithm for scan path comparisons for eye tracking data, ported into Python from a Matlab toolbox. [joss.theoj.org/papers/10.21105/joss.01525](https://joss.theoj.org/papers/10.21105/joss.01525)
+  tags: ["professional", "data science","academic"]
+
+- name: REMoDNaV
+  role: Co-author
+  logo: images/projects/python.png
+  timeline: "2020"
+  repo: https://github.com/psychoinformatics-de/remodnav
+  #url: "https://www.example.com"
+  summary: An Open Source algorithm for eye movement classification for eye tracking data. Fully reproducible paper at [github.com/psychoinformatics-de/paper-remodnav](https://github.com/psychoinformatics-de/paper-remodnav).
+  tags: ["academic","iot"]
+
+- name: didwegivecredit
+  logo: images/projects/python.png
+  role: Developer
+  timeline: "2020"
+  repo: https://github.com/adswa/didwegivecredit
+  #url: ""
+  summary: Small linter to check whether contributors to a repository are acknowledged with the [all-contributors bot](https://allcontributors.org/).
+  tags: ["hobby", "fun"]

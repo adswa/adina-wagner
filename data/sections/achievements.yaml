@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+
+# Your achievements achievements
+achievements:
+- title: ReproNim/INCF Fellowship 2020/21
+  image: images/achievements/repronim.png
+  summary: https://www.repronim.org/fellowship.html
+- title: Graduations
+  image: images/achievements/graduation.jpg
+  summary: BSc with honors in Psychology, MSc with honors in clincial neuroscience
+- title: Erasmus+ (2014/15)
+  image: images/achievements/erasmus.jpg
+  summary: https://ec.europa.eu/programmes/erasmus-plus/opportunities/traineeships-students_en
+- title: German Academic Foundation (2013-2019)
+  image: images/achievements/GAF.svg
+  summary: https://www.studienstiftung.de/en/leitbild/

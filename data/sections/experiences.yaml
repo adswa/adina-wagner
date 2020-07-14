@@ -1,0 +1,115 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+
+# Your experiences
+experiences:
+- designation: Doctoral Researcher
+  company:
+    name: Psychoinformatics Lab
+    url: "https://www.psychoinformatics.de/"
+    location: Juelich Research Centre
+    # company overview
+    overview: PhD in neuroinformatics with responsibilities in research, teaching, and open source software development.
+  start: Apr 2019
+  # don't provide end date if you are currently working there. It will be replaced by "Present"
+  # end: Dec 2020
+  # give some points about what was your responsibilities at the company.
+  softskills:
+  - Programming & Scripting -- Proficient in Python, shell/bash & R, research software engineering
+  - Software tools & Skills -- Experience with a broad range of tools, from Unix and its common tools over software containers (Singularity, Docker), Version control and data management (git, git-annex, DataLad; GitHub, GitLab), to open source tools (LaTeX, reveal.js, Inkscape, Gimp, Sphinx, Readthedocs, ...)
+  - Teaching -- data management, version control, reproducible neuroimaging.
+  - Technical and Scientific Writing -- Software documentation (e.g., [The DataLad Handbook](https://handbook.datalad.org)), scientific publications
+  - Interpersonal and soft skills -- Project management (software and science), presenting and teaching, community management, scicomm
+
+- designation: Teaching assistent statistics
+  company:
+    name: Psychoinformatics Lab
+    url: "https://www.psychoinformatics.de/"
+    location: Otto-von-Guericke University Magdeburg
+    overview: Self-responsible conception and implementation of 3 hours of weekly statistics tutoring, tailored to the lecture. Initiated, planned and conducted evaluation of own teaching concept with results showing statistically significant, mostly gender-independent improvements in statistics related attitudes andexpectations among students.
+  start: Oct 2017
+  end: July 2018
+  softskills:
+  - Teaching -- statistical concepts and data analysis in R.
+  - Software tools and skills -- Jupyter Notebooks and Jupyter Hub, reveal.js, R, RStudio.
+  - Interpersonal and soft skills -- Tutoring/Teaching, exam development and evaluation, how to create or find funny memes about statistics
+
+- designation: Lecturer
+  company:
+    name: Jugendbildung in Gesellschaft und Wissenschaft (JGW)
+    url: "https://jgw-ev.de/"
+    location: Papenburg, Germany
+    overview: Lecturer in a summer school for gifted students, taught a course on neuropsychology.
+  start: Jul 2018
+  end: Aug 2018
+  softskills:
+    - Teaching -- Fundamental and advanced topics in neuropsychology
+    - Interpersonal and soft skills -- Teaching for the physically disabled (deafness)
+
+- designation: Research Associate
+  company:
+    name: Clinic for Neurology, Klinikum Braunschweig
+    url: "https://klinikum-braunschweig.de/info.php?object=contact&id_object=507"
+    location: Braunschweig, Germany
+    overview: Development and implementation of a patient study to evaluate validity of the IQCODE as a measure for early detection of Alzheimers Disease.
+  start: Oct 2016
+  end: Oct 2018
+  softskills:
+  - Software tools and skills -- Statistical analsis in Python and R.
+  - Interpersonal and soft skills -- Ethics in science, grant and ethic approval writing, study conception and implementation, progress reporting, neuropsychological assesment in neurological patients, how to endure overly arrogant head physicians.
+
+- designation: Master of Science, Clinical Neuroscience
+  company:
+    name: Otto-von-Guericke University
+    url: http://www.ipsy.ovgu.de/
+    location: Magdeburg, Germany
+    overview: graduated with honors (1.1, ECTS A, among 10% best)
+  start: Oct 2016
+  end: Feb 2019
+  softskills:
+    - Electives -- systemic counseling, empirical economic research
+    - Interpersonal and soft skills -- how to commute 200km daily via train and still get a degree
+
+- designation: Research stay - Dartmouth College
+  company:
+    name: Dartmouth College, US
+    url: https://pbs.dartmouth.edu/
+    location:  United States
+    overview:
+  start: Sep 2018
+  end: Feb 2019
+  softskills:
+  - Software tools and skills -- Neuroimaging analyses (FSL, nipype, fmriprep, fitlins, pymvpa, Docker), unit testing, continous integration, Python packaging, debugging
+  - Interpersonal and soft skills -- How to survive in the deserted loneliness of Hanover, New Hampshire, in Winter, without developing a drinking problem. Also, how to buy Rum with 160 proof.
+
+- designation: Bachelor of Science, Psychology
+  company:
+    name: Technical University Braunschweig
+    url: https://www.tu-braunschweig.de/psychologie
+    location: Braunschweig, Germany
+    overview: graduated with honors (1.2, ECTS A, among 10% best)
+  start: Oct 2012
+  end: Apr 2016
+  softskills:
+    - Electives -- Neuropsychology, forensic psychology, counseling psychology, rehabilitation psychology
+    - Software tools and skills -- SPSS, R, LaTeX
+    - Teaching -- [children's university 2013](https://magazin.tu-braunschweig.de/pi-post/kinder-uni-braunschweig-warum-kann-unser-gewissen-beissen/)
+
+- designation: Research stay - Cambridge
+  company:
+    name: Cambridge University, UK
+    url: https://www.psychol.cam.ac.uk/ccl
+    location: United Kingdom
+    overview:
+  start: Sep 2014
+  end: Apr 2015
+  softskills:
+  - Software tools and skills -- R
+  - Interpersonal and soft skills -- Experiment design in animal research (corvids), how to not freeze while observing birds in British Winter outside, how to get used to everything tasting like vinegar.
+
+
