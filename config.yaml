@@ -35,8 +35,8 @@ params:
   # specify the list of custom menus that you want to show in the top navbar.
   # they will be separated by a divider from the main menus.
   customMenus:
-  - name: Notes
-    url: https://hossainnotes.netlify.app/docs/example/
+  #- name: Notes
+  #  url: https://hossainnotes.netlify.app/docs/example/
 
   # some information about you
   author:
@@ -45,7 +45,7 @@ params:
     # give your some contact information. they will be used in the footer
     contactInfo:
       email: "a.wagner@fz-juelich.de"
-      phone: "+0123456789"
+      #phone: "+0123456789"
     # a summary of what you do
     summary:
     - doctoral researcher
