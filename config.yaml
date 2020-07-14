@@ -24,7 +24,7 @@ params:
   copyright: © 2020 Copyright.
 
   # background image of the landing page
-  background: "images/jellyfish.jpg"
+  background: "images/jellyfish2.jpg"
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/adswa/adina-wagner
