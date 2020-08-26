@@ -54,10 +54,10 @@ softSkills:
   color: blue
 - name: Open Source
   percentage: 100
-  color: blue
+  color: green
 - name: Open Data
   percentage: 100
-  color: blue
-- name: Open Mind
-  percentage: 100
-  color: blue
+  color: yellow
+#- name: Open Mind
+#  percentage: 100
+#  color: pink
