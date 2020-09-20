@@ -1,6 +1,6 @@
 ---
 title: "From standard writing pain to reproducible paper"
-date: 2019-06-08T08:59:13+06:00
+date: 2020-09-19T08:59:13+06:00
 hero: /images/posts/researchlog.png
 author:
   name: Adina Wagner
