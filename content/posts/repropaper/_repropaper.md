@@ -1,6 +1,6 @@
 ---
 title: "From standard writing pain to reproducible paper"
-date: 2019-06-08T08:59:13+06:00
+date: 2020-09-19T08:59:13+06:00
 hero: /images/posts/researchlog.png
 author:
   name: Adina Wagner
@@ -28,8 +28,7 @@ But dynamic document generation is easy *once you know how*.
 And beyond being easy, it also makes your science more transparent and extensible, it increases your own trust in your results and it saves you time.
 
 To help others get started, I have shared how I wrote my very first reproducible, dynamically generated manuscript in [talks](https://github.com/datalad-handbook/course/blob/master/talks/PDFs/reproduciblepaper_INM7seminar_wagner.pdf) and in a detailed write-up in the [DataLad Handbook](http://handbook.datalad.org/en/latest/usecases/reproducible-paper.html).
-This method demonstrates *one* way of doing this.
-For my own paper, me and my co-authors have used [Git](https://www.git-scm.com) for version control and collaborative writing, [DataLad](http://www.datalad.org) to share and link code and data via GitHub, LaTeX to embed dynamically generated results and figures, and Makefiles to orchestrate code execution and manuscript compiling.
+For the paper, me and my co-authors have used [Git](https://www.git-scm.com) for version control and collaborative writing, [DataLad](http://www.datalad.org) to share and link code and data via GitHub, LaTeX to embed dynamically generated results and figures, and Makefiles to orchestrate code execution and manuscript compiling.
 In the end, we the result is a publicly shared GitHub repository that allows a complete recomputation and manuscript regeneration with a single command: [github.com/psychoinformatics-de/paper-remodnav](https://github.com/psychoinformatics-de/paper-remodnav/).
 
 Most of the tools used for this were new to me.
@@ -47,6 +46,10 @@ Manuscript and analysis decision weren't made over email, but via GitHub issue.
 Because the manuscript was dynamically generated, and results were embedded automatically, without hand-copying tables, it was only a single **make** command that recomputed all results and updated the manuscript when I discovered an error in the input data and fixed it.
 Analysis code was checked by everyone involved and publicly available, just as the data - even if I (as a code newbie clinical psych student) was unsure about whether my code was 100% correct, I drew immense confidence from the fact that everyone you run my code, reproduce my code, and comment on errors or suggest improvements.
 
+The tools we combined and used demonstrates *one* way of doing this.
+But there are many more, and a large number of tools exist to make the process even easier.
+[Here](https://psyarxiv.com/8xzqy/) for example is a great tutorial on how to do it with R MarkDown.
+Regardless of *how* you write your reproducible paper, it will improve your science and workflows.
 Goodbye Word-Doc ping pong, goodbye mistrusting my own results - hello open and reproducible science!
 I won't go back :)
 

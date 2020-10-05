@@ -2,7 +2,7 @@
 section:
   name: Recent Posts
   enable: true
-  weight: 5
+  weight: 3
   showOnNavbar: true
 
 # no other configuration is required
