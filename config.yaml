@@ -36,7 +36,7 @@ params:
   # they will be separated by a divider from the main menus.
   customMenus:
   - name: Talks
-    url: https://adina-wagner/talks/
+    url: https://www.adina-wagner/talks/
 
   # some information about you
   author:
