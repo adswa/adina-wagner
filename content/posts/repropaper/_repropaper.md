@@ -46,7 +46,6 @@ Manuscript and analysis decision weren't made over email, but via GitHub issue.
 Because the manuscript was dynamically generated, and results were embedded automatically, without hand-copying tables, it was only a single **make** command that recomputed all results and updated the manuscript when I discovered an error in the input data and fixed it.
 Analysis code was checked by everyone involved and publicly available, just as the data - even if I (as a code newbie clinical psych student) was unsure about whether my code was 100% correct, I drew immense confidence from the fact that everyone you run my code, reproduce my code, and comment on errors or suggest improvements.
 
-
 The tools we combined and used demonstrates *one* way of doing this.
 But there are many more, and a large number of tools exist to make the process even easier.
 [Here](https://psyarxiv.com/8xzqy/) for example is a great tutorial on how to do it with R MarkDown.
