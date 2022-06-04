@@ -10,32 +10,36 @@ section:
 skills:
 - name: Version control
   icon: "images/skills/git.jpg"
-  summary: "Proficient in local and collaborative version control workflows with [Git](https://git-scm.com/) and [git-annex](https://git-annex.branchable.com/), experience with repository-hosting services such as GitHub, GitLab, and Gin."
+  summary: "Version control and plumbing workflows with [Git](https://git-scm.com/) and [git-annex](https://git-annex.branchable.com/), experience with repository-hosting services such as GitHub, GitLab, and Gin."
 
 - name: Data management
   icon: "images/skills/datalad.png"
-  summary: "Documenting, developing, using, and teaching [FAIR](https://www.go-fair.org/fair-principles/) and scalable data management skills with [DataLad](https://www.datalad.org/)."
+  summary: "Documenting, developing, using, and teaching [FAIR](https://www.go-fair.org/fair-principles/) and scalable data management skills with [DataLad](https://www.datalad.org/) and more."
 
 - name: Reproducible science
   icon: "images/skills/reproducible.svg"
-  summary: "Share fully reproducible digital research objects (data, code, results, software, provenance)."
+  summary: "Share fully reproducible digital research objects (data, code, results, software, provenance) at Tera byte scale."
+
+- name: Science communication and teaching
+  icon: "images/skills/communication.svg"
+  summary: "Public talks and discussions on open science and data management, as well as multi-day workshops on data management or software tools."
 
 - name: Software containers
   icon: "images/skills/docker.svg"
-  summary: "Building and using containerized software, Docker and Singularity."
+  summary: "Building and using containerized software, Docker/Singularity/Apptainer."
 
 - name: Python
   icon: "images/projects/python.png"
-  summary: "Experience in generic scripting and programming with Python for research software engineering, data science, neuroimaging (NumPy, pandas, sklearn, matplotlib, pyplot, seaborn, pymvpa, nibabel, nipype, fmriprep, fitlins, pybids,...), continuous integration, unit testing, Python packaging, some debugging experience."
+  summary: "Scripting and software development with Python for research software engineering, data science, neuroimaging (NumPy, pandas, sklearn, matplotlib, pyplot, seaborn, pymvpa, nibabel, nipype, fmriprep, fitlins, pybids,...), continuous integration, unit testing, Python packaging, debugging."
 
 - name: Linux
   icon: "images/skills/linux.png"
-  summary: "Using as the main operating system (Debian). Capable of writing bash/shell scripts and using major command line tools."
+  summary: "5+ years experience with Debian (main operating system), bash/shell scripting, major command line tools."
 
 - name: Miscellaneous tools
   icon: "images/skills/computer.jpg"
-  summary: "Text editors: LaTeX, vim, pycharm; Graphics: Inkscape, Gimp, Adobe Photoshop; technical writing: Sphinx, readthedocs, building static websites with hugo, Other (statistical) programming languages: HTML, R, STATA, SPSS."
+  summary: "I have a broad and always expanding techstack of open source software tools, from advanced text editors, graphic programs, presentation frameworks, to CI or documentation services, and statistical programming languages, and I love mastering more."
 
 - name: Technical writing
   icon: "images/skills/writing.png"
-  summary: "I have extensive experience in creating accessible user documentation for complex software tools."
+  summary: "I have extensive experience in creating accessible user documentation for complex software tools, building and mainting documentation framewords, and coordination with software development."
