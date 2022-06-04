@@ -55,12 +55,3 @@ projects:
   #url: "https://www.example.com"
   summary: An Open Source algorithm for eye movement classification for eye tracking data. Fully reproducible paper at [github.com/psychoinformatics-de/paper-remodnav](https://github.com/psychoinformatics-de/paper-remodnav).
   tags: ["academic","iot"]
-
-- name: didwegivecredit
-  logo: images/projects/python.png
-  role: Developer
-  timeline: "2020"
-  repo: https://github.com/adswa/didwegivecredit
-  #url: ""
-  summary: Small linter to check whether contributors to a repository are acknowledged with the [all-contributors bot](https://allcontributors.org/).
-  tags: ["hobby", "fun"]
