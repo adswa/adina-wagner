@@ -27,7 +27,6 @@ projects:
   summary: Accessible and extensive workflow-based user documentation for data management with [DataLad](https://www.datalad.org). [doi.org/10.5281/zenodo.3905791](http://doi.org/10.5281/zenodo.3905791)
   tags: ["professional", "DataLad", "version control"]
 
-projects:
 - name: DataLad
   logo: images/projects/handbook.png
   role: Software Developer
