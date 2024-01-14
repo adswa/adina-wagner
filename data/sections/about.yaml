@@ -6,7 +6,7 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Doctoral Researcher
+designation: Research Associate
 # your company information
 company:
   name: Psychoinformatics Lab, INM-7, Juelich Research Centre
@@ -16,7 +16,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate scientist, open science advocate, and research data management enthusiast. I develop tools and resources for reproducible, open, and FAIR neuroscience, teach data management practices and tools, and pursue a PhD in Neuroinformatics.'
+summary: 'I am a passionate scientist, open science advocate, and research data management enthusiast. I develop tools and resources for reproducible, open, and FAIR neuroscience, teach data management practices and tools, and am interested in all things RSE, RDM, and AI.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -37,9 +37,9 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/adina-wagner-611379123/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/AdinaKrik"
+- name: Mastodon
+  icon: "fab fa-mastodon"
+  url: "https://mas.to/@adswa"
 
 - name: Google Scholar
   icon: "fab fa-google"
@@ -48,16 +48,16 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported color: blue, yellow, pink, green
-softSkills:
-- name: Open Science
-  percentage: 100
-  color: blue
-- name: Open Source
-  percentage: 100
-  color: green
-- name: Open Data
-  percentage: 100
-  color: yellow
+#softSkills:
+#- name: Open Science
+#  percentage: 100
+#  color: blue
+#- name: Open Source
+#  percentage: 100
+#  color: green
+#- name: Open Data
+#  percentage: 100
+#  color: yellow
 #- name: Open Mind
 #  percentage: 100
 #  color: pink
