@@ -9,8 +9,8 @@ section:
 designation: Research Associate
 # your company information
 company:
-  name: Psychoinformatics Lab, INM-7, Juelich Research Centre
-  url: "https://www.psychoinformatics.de/"
+  name: Institute of Neuroscience and Medicine (INM-7), Juelich Research Centre
+  url: "https://www.fz-juelich.de/en/inm/inm-7"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
